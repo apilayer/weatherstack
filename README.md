@@ -11,14 +11,14 @@ And the best part: most of our API is completely free of charge. You can [sign u
 
 The weatherstack API comes with a full suite of features that will make implementation very straightforward. Some of our API functionalities include:
 
-* **Real-Time Weather Data**:
-* **Historical Weather Data**:
-* **Weather Forecast Data**:
-* **Location Search & Autocomplete**:
-* **Rock-Solid Uptime & API Speed**:
-* **Astronomy & Lunar Data**:
-* **Hour-by-Hour Data**:
-* **Bulk API Queries**:
+* **Real-Time Weather Data**
+* **Historical Weather Data**
+* **Weather Forecast Data**
+* **Location Search & Autocomplete**
+* **Rock-Solid Uptime & API Speed**
+* **Astronomy & Lunar Data**
+* **Hour-by-Hour Data**
+* **Bulk API Queries**
 
 [Sign up for the Standard Plan](https://weatherstack.com/signup/standard) to start using the API at premium level for 10,000 monthly API requests, HTTPS encryption, full historical data and more.
 
