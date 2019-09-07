@@ -1,4 +1,4 @@
-# weatherstack
+# weatherstack - World Weather Data API
 
 Stay up to date by following [@apilayer](https://twitter.com/apilayer) on Twitter.
 
