@@ -1,10 +1,10 @@
 ![apixu weatherstack](https://raw.githubusercontent.com/apilayer/weatherstack/master/apixu_weatherstack.png)
 
-# APIXU is now weatherstack
+# Apixu is now weatherstack
 
-When APIXU originally launched in early 2015, it was one of very few API-first global weather data providers selling to customers all around the world on a self-service basis. Through the years, more than 75.000 companies all around the world have started using the product to retrieve different kinds of real-time and historical weather data. 
+When Apixu originally launched in early 2015, it was one of very few API-first global weather data providers selling to customers all around the world on a self-service basis. Through the years, more than 75.000 companies all around the world have started using the product to retrieve different kinds of real-time and historical weather data. 
 
-After months of preparation and work on the technical side of our weather API, APIXU is now officially relaunching as weatherstack - a new, faster, more capable and completely rebuilt REST API service for current weather information, 11-year historical data as well as accurate 14-day weather forecasts. 
+After months of preparation and work on the technical side of our weather API, Apixu is now officially relaunching as weatherstack - a new, faster, more capable and completely rebuilt REST API service for current weather information, 11-year historical data as well as accurate 14-day weather forecasts. 
 
 In addition to improved data reliability, consistency and completeness in general, there is a series of new API functionalities that will enhance your user experience and simplify implementation, including translations for 40 languages, bulk queries, hour-by-hour data, astronomy data, location autocomplete, and more. 
 
@@ -12,13 +12,13 @@ In addition to improved data reliability, consistency and completeness in genera
 
 **- Please switch to the new API endpoint by October 14th, 2019**
 
-Please note that the APIXU API is now deprecated and scheduled for shutdown on October 14th, 2019. To prevent service disruption in your application(s), please make sure to switch to the new weatherstack API endpoint as soon as possible. 
+Please note that the Apixu API is now deprecated and scheduled for shutdown on October 14th, 2019. To prevent service disruption in your application(s), please make sure to switch to the new weatherstack API endpoint as soon as possible. 
 
 To do so, please [create your weatherstack account](https://weatherstack.com/product), grab your new API access key and take a quick look at our 3-Step Quickstart Guide or API Documentation. 
 
 **- Are you a paid APIXU customer? Get in touch!**
 
-If you have been using a premium subscription with APIXU, we have a special offer for you. If you have not been contacted yet, please make sure to [reach out to us](https://weatherstack.com/contact) and let us know your APIXU account email address.
+If you have been using a premium subscription with Apixu, we have a special offer for you. If you have not been contacted yet, please make sure to [reach out to us](https://weatherstack.com/contact) and let us know your APIXU account email address.
 
 **- Need help? Please get in touch**
 
