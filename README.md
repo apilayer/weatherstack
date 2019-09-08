@@ -1,6 +1,19 @@
 ![apixu weatherstack](https://raw.githubusercontent.com/apilayer/weatherstack/master/apixu_weatherstack.png)
 
-# Important: APIXU is now weatherstack
+# APIXU is now weatherstack
+
+When APIXU originally launched in early 2015, it was one of very few API-first global weather data providers selling to customers all around the world on a self-service basis. Through the years, more than 75.000 companies all around the world have started using the product to retrieve different kinds of real-time and historical weather data. 
+
+After months of preparation and work on the technical side of our weather API, APIXU is now officially relaunching as weatherstack - a new, faster, more capable and completely rebuilt REST API service for current weather information, 11-year historical data as well as accurate 14-day weather forecasts. 
+
+In additiono to improved data reliability, consistency and completeness in general, there is a series of new API functionalities that will enhance your user experience and simplify implementation, including translations for 40 languages, bulk queries, hour-by-hour data, astronomy data, location autocomplete, and more. 
+
+## Please switch to the new weatherstack API endpoint by October 14th, 2019
+
+<b style='color:red'>- - - IMPORTANT - - -</b>
+
+
+
 
 
 # weatherstack - World Weather Data API
@@ -23,6 +36,7 @@ The weatherstack API comes with a full suite of features that will make implemen
 * **Rock-Solid Uptime & API Speed**
 * **Astronomy & Lunar Data**
 * **Hour-by-Hour Data**
+* **Multi-Language API in 40 Languages**
 * **Bulk API Queries**
 
 [Sign up for the Standard Plan](https://weatherstack.com/signup/standard) to start using the API at premium level for 10,000 monthly API requests, HTTPS encryption, full historical data and more.
