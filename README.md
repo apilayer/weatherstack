@@ -19,6 +19,8 @@ Please note that the APIXU API is now deprecated and scheduled for shutdown on O
 It is very important for us to ensure a smooth transition for all of our customers. If you need any assistance or have questions, please feel free to contact technical support using the following link: [Contact Technical Support](https://weatherstack.com/contact)
 
 
+
+
 ![please read](https://raw.githubusercontent.com/apilayer/weatherstack/master/read_notice.png)
 
 
