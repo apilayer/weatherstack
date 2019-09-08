@@ -6,7 +6,7 @@ When APIXU originally launched in early 2015, it was one of very few API-first g
 
 After months of preparation and work on the technical side of our weather API, APIXU is now officially relaunching as weatherstack - a new, faster, more capable and completely rebuilt REST API service for current weather information, 11-year historical data as well as accurate 14-day weather forecasts. 
 
-In additiono to improved data reliability, consistency and completeness in general, there is a series of new API functionalities that will enhance your user experience and simplify implementation, including translations for 40 languages, bulk queries, hour-by-hour data, astronomy data, location autocomplete, and more. 
+In addition to improved data reliability, consistency and completeness in general, there is a series of new API functionalities that will enhance your user experience and simplify implementation, including translations for 40 languages, bulk queries, hour-by-hour data, astronomy data, location autocomplete, and more. 
 
 ## Important: APIXU Shutdown on October 14th, 2019
 
