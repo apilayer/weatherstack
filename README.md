@@ -8,7 +8,7 @@ After months of preparation and work on the technical side of our weather API, A
 
 In additiono to improved data reliability, consistency and completeness in general, there is a series of new API functionalities that will enhance your user experience and simplify implementation, including translations for 40 languages, bulk queries, hour-by-hour data, astronomy data, location autocomplete, and more. 
 
-## Important: Next Steps
+## Important: APIXU Shutdown on October 14th, 2019
 
 **- Please switch to the new API endpoint by October 14th, 2019**
 
@@ -17,6 +17,11 @@ Please note that the APIXU API is now deprecated and scheduled for shutdown on O
 **- Need help? Please get in touch**
 
 It is very important for us to ensure a smooth transition for all of our customers. If you need any assistance or have questions, please feel free to contact technical support using the following link: [Contact Technical Support](https://weatherstack.com/contact)
+
+
+
+
+- - - - - - - - - 
 
 
 
