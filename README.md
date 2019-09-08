@@ -1,6 +1,6 @@
 ![apixu weatherstack](https://raw.githubusercontent.com/apilayer/weatherstack/master/apixu_weatherstack.png)
 
-# Apixu is now weatherstack
+# Great News: Apixu is now weatherstack
 
 When Apixu originally launched in early 2015, it was one of very few API-first global weather data providers selling to customers all around the world on a self-service basis. Through the years, more than 75.000 companies all around the world have started using the product to retrieve different kinds of real-time and historical weather data. 
 
