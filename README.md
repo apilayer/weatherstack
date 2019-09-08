@@ -12,7 +12,7 @@ In additiono to improved data reliability, consistency and completeness in gener
 
 **- Please switch to the new API endpoint by October 14th, 2019**
 
-Please note that the APIXU API is now deprecated and scheduled for shutdown on October 14th, 2019. Switching to the new weatherstack API will require you to exchange the old APIXU API URL with the new weatherstack API endpoint and make sure to parse API results correctly. To do so, please [create your weatherstack account](https://weatherstack.com/product), grab your new API access key and take a quick look at our 3-Step Quickstart Guide or API Documentation. 
+Please note that the APIXU API is now deprecated and scheduled for shutdown on October 14th, 2019. To prevent service disruption in your application(s), please make sure to switch to the new weatherstack API endpoint as soon as possible. To do so, please [create your weatherstack account](https://weatherstack.com/product), grab your new API access key and take a quick look at our 3-Step Quickstart Guide or API Documentation. 
 
 **- Are you a paid APIXU customer? Get in touch!**
 
