@@ -1,6 +1,6 @@
 ![apixu weatherstack](https://raw.githubusercontent.com/apilayer/weatherstack/master/apixu_weatherstack.png)
 
-# Important Announcement: APIXU is now WeatherStack
+# Important: APIXU is now weatherstack
 
 
 # weatherstack - World Weather Data API
