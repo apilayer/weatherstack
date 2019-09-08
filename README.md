@@ -1,3 +1,5 @@
+![apixu weatherstack](https://raw.githubusercontent.com/apilayer/weatherstack/master/apixu_weatherstack.png)
+
 # weatherstack - World Weather Data API
 
 Stay up to date by following [@apilayer](https://twitter.com/apilayer) on Twitter.
