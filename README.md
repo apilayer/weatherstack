@@ -59,7 +59,7 @@ The weatherstack API comes with a full suite of features that will make implemen
 * **Multi-Language API in 40 Languages**
 * **Bulk API Queries**
 
-[Sign up for the Standard Plan](https://weatherstack.com/signup/standard) to start using the API at premium level for 10,000 monthly API requests, HTTPS encryption, full historical data and more.
+[Sign up for the Standard Plan](https://weatherstack.com/signup/standard) to start using the API at premium level for 50,000 monthly API requests, HTTPS encryption, full historical data and more.
 
 
 ## In-depth Documentation
